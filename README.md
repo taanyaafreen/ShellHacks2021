@@ -13,7 +13,7 @@ Save Miami is a platform that connect businesses and user together. The business
 
 ## How we built it
 
-We used Figma and Canva for design. <https://www.figma.com/file/4VHcVeJ1qql6gCwkVtVrNC/ShellHacks2021?node-id=0%3A1>
+We used Figma and Canva for design.
 
 ## Challenges we ran into
 
