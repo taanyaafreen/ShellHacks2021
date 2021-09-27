@@ -37,3 +37,8 @@ We are very proud to introduce our idea to you as we can contribute to our envir
 
 - We really enjoyed working on this project. MiamiCoin is open source, as a team we are thinking of contributing to the development of MiamiCoin.
 
+## Authors
+
+- Alian Perez 
+- Taniya Afreen
+
